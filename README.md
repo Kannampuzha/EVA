@@ -39,11 +39,11 @@ Prints false if the stimuli is 0<br>
 You can also extend the very same code to a NOT gate without any changed to the code. All  you have to do is to erase the memory and re-train the algorithm .
 
 
-Again , this is a very small and simple implentation of the concept , there is a major element missing in this example , "the way it tries to find similarity between given stimuli" .This hasn't been included due to the nature of this example . In a more realistic program , each stimuli will be defined not explictly , but by it's Type , Location of Stimulation and Size and so on. But in this case , the stimuli does not have a location , say 'Mouth' , it has no 'Size' either , it is more appropriate to make it work statically on direct instaces of stimuli rather than executing the functions in response to  identified , dynamic kind of stimuli that is 'similar' to a previous stimuli , based on these characteristics like 'Size' or 'Location' . An example based on this 'dynamic' stimuli is expected to come soon , in a more realistic example , one having a physical context . 
+Again , this is a very small and simple implentation of the concept , there is a major element missing in this example , "the way it tries to find similarity between given stimuli" .This hasn't been included due to the nature of this example . In a more realistic program , each stimuli will be defined not explictly , but by it's Type , Location of Stimulation and Size and so on. But in this case , the stimuli does not have a location , say 'Mouth' , it has no 'Size' either , it is more appropriate to make it work statically on direct instaces of stimuli rather than executing the functions in response to  identified , dynamic kind of stimuli that is 'similar' to a previous stimuli , based on these characteristics like 'Size' or 'Location' . An example based on this 'dynamic' stimuli is expected to come soon , in a more realistic example , one having a physical context. <br>
 
-How to use it :
-The program takes in a stimuli , and gives some output.
-Based on whatever u like , give a score to the output it gave , say , 0 or 5 or 10 .
+How to use it :<br>
+The program takes in a stimuli , and gives some output.<br>
+Based on whatever u like , give a score to the output it gave , say , 0 or 5 or 10 .<br>
 
 The scores are compared in memory everytime . Once a particular sequence of  functions is identifed to have a significantly larger score than all its counterparts , the program does not generate a random output , it will directly apply the same sequence of functions , and gives the output instantly.
 Random Output making is done though 'PF' , 'Process Function'
