@@ -5,7 +5,7 @@ A program working on memory to design an algorithm
 "EVOCATION - The act of bringing or recalling a feeling, memory, or image to the conscious mind."
 
 
-What is it?
+What is it?\n
 It is an alogorithm that learns to make an algorithm , for some purpose. Here I identify a program as being 
 synonymous to a biological organism having a set of well defined functions.It is very important to note that
 every possible function of the organim is known , and defined in the program.
@@ -32,9 +32,9 @@ It is very necessary that all the possible funtions of the program are actually 
 
 
 This program is a very simple implementation of the algorithm above defined . 
-It is an organism that :
-Prints true if the stimuli is 1
-Prints false if the stimuli is 0
+It is an organism that :\n
+Prints true if the stimuli is 1\n
+Prints false if the stimuli is 0\n
 
 You can also extend the very same code to a NOT gate without any changed to the code. All  you have to do is to erase the memory and re-train the algorithm .
 
