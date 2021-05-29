@@ -5,36 +5,36 @@ A program working on memory to design an algorithm
 "EVOCATION - The act of bringing or recalling a feeling, memory, or image to the conscious mind."
 
 
-What is it?\n
+What is it?<br>
 It is an alogorithm that learns to make an algorithm , for some purpose. Here I identify a program as being 
 synonymous to a biological organism having a set of well defined functions.It is very important to note that
 every possible function of the organim is known , and defined in the program.
 Any possible outcome that this organism will ever produce is thus clearly a manifestation of one or more functions
-of this organism. No outcome is thus possible outside the domain of the organism .
+of this organism. No outcome is thus possible outside the domain of the organism .<br>
 
 Given a desired outcome from the organism on a given stimuli , how can the organism produce the outcome ? And why ?
 The organism can no be thought to execute any random sequence of operations on the stimuli , and expected to give an outcome.
 If the given outcome is favourable to the environemnt , the organism survives .
-This can be furthur extended on the program . If it gives a correct outcome , it shall survive (regardless of the ways it produced the output)
+This can be furthur extended on the program . If it gives a correct outcome , it shall survive (regardless of the ways it produced the output)<br>
 
 Now , we shall assume that the organism is able to store its encounters in a memory.Thus , every action that it ever did for some kind of stimuli is being stored in memory.
 It follows a simple principle "What happened so in past could possibily happen so in the future". So , in the future if it encounters a similar stimuli , 
 the organism would react in the same way as it did in the past.This effectively creates the organism's purpose and thus the organism is able to program itself 
-in order to get a human desired output.
+in order to get a human desired output.<br>
 
 One of the most important things to note here is that this algorithm consideres that all possible functions of the organism are known (That is an obvious case 
 considering the nature of any natural organism ). This is thus inapplicable in circumstances where all the functions of the program are not known.
 For example , A program that plays pool has all its functions known (keeping an angle , hittling , knowing the scores  ), there are no 'hidden' functions involved
-but a program that plays chess does not have all its functions known (It has rather complex functions like , 'which piece is in danger' , 'why should/shouldnt i move this piece')
+but a program that plays chess does not have all its functions known (It has rather complex functions like , 'which piece is in danger' , 'why should/shouldnt i move this piece')<br>
 Although it might seem plausible that all the functions involved in it can be marked , it isn't as simple as knowing the functions of a pool player , the complexity actually much higher that what we readily see and complexity of the functions does certainly affect its deployment.
 It is very necessary that all the possible funtions of the program are actually known with the obvious condition that the outcome expected is possible with the given set of functions. A program that only knows to scan documents cannot calculate the average number of pages .
 
 
 
 This program is a very simple implementation of the algorithm above defined . 
-It is an organism that :\n
-Prints true if the stimuli is 1\n
-Prints false if the stimuli is 0\n
+It is an organism that :<br>
+Prints true if the stimuli is 1<br>
+Prints false if the stimuli is 0<br>
 
 You can also extend the very same code to a NOT gate without any changed to the code. All  you have to do is to erase the memory and re-train the algorithm .
 
