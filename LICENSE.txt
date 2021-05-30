@@ -3,6 +3,7 @@ LICENSE
 
 Definitions :
 'author' : Tejas Kannampuzha
+'the work' : content uploaded by the author  on https://github.com/Kannampuzha/Evocative-Algorithm-Generator
 
 
 You CAN do the following with the work:
